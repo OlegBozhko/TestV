@@ -1,5 +1,5 @@
 Fist page
 http://localhost:8080/testForJR/main/users
 
-Create database and put users
+Create database table and put users
 createDatabase.sql
